@@ -1,4 +1,7 @@
 require("ab.remap")
 require("ab.lazy")
 require("ab.set")
-vim.o.timeout = false      
+require("ab.colors")
+require("ab.lsp")
+require("ab.command")
+vim.o.timeout = false     
